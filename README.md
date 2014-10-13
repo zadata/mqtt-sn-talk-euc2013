@@ -1,4 +1,4 @@
-### Building Wireless Sensor Networks with MQTT-S, RaspberryPi and Erlang
+### Building Wireless Sensor Networks with MQTT-SN, RaspberryPi and Erlang
 
 The talk I gave at Erlang User Conference 2013, Logtel M2M and Devcon TLV conferences in June 2013.
 
